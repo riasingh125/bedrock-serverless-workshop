@@ -6,7 +6,7 @@
     <div class="row">
       <div class="col-lg-6 mb-4" style="min-width: 750px;">
         <div class="card-header" style="background-color:#FF9900">
-          Bedrock Workshop
+          Guide to the RIDE
         </div>
         <div class="card">
           <img class="card-img-top" src="" alt=""/>
@@ -85,13 +85,13 @@
           <img class="card-img-top" src="" alt="" />
 
           <div class="card-body">
-            <label style="font-weight:lighter;color:grey">What is federal funds rate as of September 2023?</label>
+            <label style="font-weight:lighter;color:grey">How to add funds to account?</label>
             <br />
-            <label style="font-weight:lighter;color:grey">What is federal funds rate as of September 2024?</label>
+            <label style="font-weight:lighter;color:grey">Can I bring a pet?</label>
             <br />
-            <label style="font-weight:lighter;color:grey" >What are the demographic trends in dental space?</label>
+            <label style="font-weight:lighter;color:grey" >How to sign up for RIDE Flex?</label>
             <br />
-            <label style="font-weight:lighter; color:grey" >What are Amazon sustainability goals by year 2040?</label>
+            <label style="font-weight:lighter; color:grey" >How to call a ride?</label>
           </div>
         </div>
       </div>
